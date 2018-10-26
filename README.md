@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<title>视差滚动原理一</title>
+<title>这是个演示页面一</title>
 </head>
 <style>
 .article{
